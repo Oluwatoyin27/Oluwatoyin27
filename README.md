@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name] – Data Analyst
+# Hi there! 👋 I'm Oluwatoyin Olosunde – Data Analyst
 
 Welcome to my GitHub profile! I’m a data analyst with a strong passion for transforming raw data into meaningful insights that drive impactful decisions. With expertise in **Microsoft Excel**, **SQL**, **Microsoft Power BI**, and **Python**, I bring a diverse skill set to data analysis, visualization, and storytelling. My goal is to unlock actionable insights and provide data-driven solutions that help businesses make informed decisions.
 
